@@ -14,7 +14,7 @@ Our Progress
 + Created a project on XCode
 + Currently watching/reading tutorials to learn how to code an app on XCode
 
-**Next Steps + Goals**
+Next Steps + Goals
 ---
 + Create a layout of the app design
 + Code the app based on the layout
