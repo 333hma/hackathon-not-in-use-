@@ -1,8 +1,8 @@
 # Temperature Checks iOS Application
 ### Group Members
 + Hayden Ma (220544@hkis.edu.hk)
-+ Rysa Tahilramani (220813@hkis.edu.hk)
 + Nakyung Lee (220760@hkis.edu.hk)
++ Rysa Tahilramani (220813@hkis.edu.hk)
 
 Project Description
 ---
