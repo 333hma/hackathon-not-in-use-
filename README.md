@@ -11,4 +11,4 @@ When we go in to school, currently we submit our temperatures through temperatur
 ### **Our Progress**
 - Created a repository on GitHub
 - Created a project on XCode
-- Currently watching/reading coding tutorials to learn how to code an app on XCode
+- Currently watching/reading tutorials to learn how to code an app on XCode
