@@ -16,5 +16,5 @@ Our Progress
 
 Next Steps + Goals
 ---
-+ Create a layout of the app design
-+ Code the app based on the layout
+- [ ] Create a layout of the app design
+- [ ] Code the app based on the layout
